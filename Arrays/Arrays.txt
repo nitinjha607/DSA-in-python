@@ -1,0 +1,9 @@
+We can use lists which is similar like arrays
+We can use Numpy array module to create array data structure
+Collection of books
+Collection of Clothes
+We can store only one data type into array not another one
+To create 500 variables or more we can use single variable to declare them all that 's why we are going to use array to do it effeicenetly
+
+Types of Array:-
+1-D Array  and Mutli-dimensional array

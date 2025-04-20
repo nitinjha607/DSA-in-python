@@ -1,0 +1,7 @@
+# Append a new node at the end of ll is O(1)
+# Removing a node at the end of ll is O(n)
+# Append a new node at the front of ll is O(1)
+# Removing a node at the front of ll is O(1)
+# Adding an element in middle of ll is O(n)
+# Removing an element in middle of ll is O(n)
+# Acessing a node in ll is O(n)
